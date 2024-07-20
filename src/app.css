@@ -30,6 +30,16 @@ h2 {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+  color: #525CEB;
+  font-size: 25px;
+}
+
+a:hover {
+  color: #BFCFE7;
+}
+
 #all-content {
   margin: 0;
   padding: 0;
